@@ -1,0 +1,15 @@
+{
+    "short_name": "海豹購物",
+    "name": "海豹購物趣",
+    "icons": [
+        {
+            "src": "vite.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#FFDBED",
+    "background_color": "#FFFBFB"
+}
